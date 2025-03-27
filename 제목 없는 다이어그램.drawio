@@ -114,12 +114,12 @@
         <mxCell id="2yGPMiu2YgYd3en7Hcpp-16" value="절단" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="370" y="120" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2yGPMiu2YgYd3en7Hcpp-17" value="" style="endArrow=classic;html=1;rounded=1;labelBackgroundColor=none;fontColor=default;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="2yGPMiu2YgYd3en7Hcpp-19">
+        <mxCell id="2yGPMiu2YgYd3en7Hcpp-17" value="" style="endArrow=classic;html=1;rounded=1;labelBackgroundColor=none;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2yGPMiu2YgYd3en7Hcpp-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="130" as="sourcePoint" />
             <mxPoint x="300" y="140" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="350" y="325" />
+              <mxPoint x="350" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
