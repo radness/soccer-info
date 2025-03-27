@@ -145,7 +145,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2yGPMiu2YgYd3en7Hcpp-26" value="아노다이징&lt;div&gt;(창호피막)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="2yGPMiu2YgYd3en7Hcpp-26" value="아노다이징&lt;div&gt;(전자피막)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="470" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2yGPMiu2YgYd3en7Hcpp-27" value="" style="endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="2yGPMiu2YgYd3en7Hcpp-19" target="2yGPMiu2YgYd3en7Hcpp-26">
