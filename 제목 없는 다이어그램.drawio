@@ -4,11 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2yGPMiu2YgYd3en7Hcpp-72" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;textOpacity=50;labelBackgroundColor=none;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="130" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="2yGPMiu2YgYd3en7Hcpp-20" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;textOpacity=50;labelBackgroundColor=none;glass=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="60" width="150" height="180" as="geometry" />
         </mxCell>
         <mxCell id="EOWBaJkbITWQSVKOuZeT-1" value="주조" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="40" y="120" width="40" height="20" as="geometry" />
+          <mxGeometry x="50" y="120" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EOWBaJkbITWQSVKOuZeT-2" value="호모" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="120" width="40" height="20" as="geometry" />
@@ -330,7 +333,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2yGPMiu2YgYd3en7Hcpp-71" value="HAV1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;textShadow=1;fontColor=light-dark(#006633,#56AEFF);" vertex="1" parent="1">
-          <mxGeometry x="40" y="80" width="70" height="30" as="geometry" />
+          <mxGeometry x="50" y="70" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
